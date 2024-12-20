@@ -32,7 +32,7 @@ function add() {
          result.innerHTML = "無效的運算符！";
          return;
      }
-     result.innerHTML ="result = "+resultnum;
+     result.innerHTML ="對助教的愛有"+resultnum+"分;
      
 
 }
