@@ -12,7 +12,7 @@ function add() {
         mainContainer.style.backgroundColor = "#f6e58d"; // 恢復背景顏色
     } else {
         // 如果不存在，則設置背景圖片
-        mainContainer.style.backgroundImage = "url('cat.webp')"; // 替換為你的圖片 URL
+        mainContainer.style.backgroundImage = "url('cat.png')"; // 替換為你的圖片 URL
         mainContainer.style.backgroundSize = "cover"; // 使圖片覆蓋整個容器
         mainContainer.style.backgroundPosition = "center"; // 圖片置中
     }
