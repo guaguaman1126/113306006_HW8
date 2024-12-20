@@ -51,8 +51,8 @@ button:hover {
 }
 
 #main-container {
-    height: auto;
-    width: 30%; /* 設定寬度 */
+    height: fit-content;
+    width: fit-conten; /* 設定寬度 */
     margin: 0 auto; /* 置中 */
     margin-bottom: 10px;
     background-color: #f6e58d; /* 馬卡龍黃 */
